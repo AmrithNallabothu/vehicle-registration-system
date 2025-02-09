@@ -10,7 +10,8 @@ The details include :
 * Owner's name
 * Company model
 * Registration number
-* Insurance status
+* Insurance status 
 * Pending fines
+* Overdue fines
 
 *This project has been developed on the NetBeans IDE, having been written in Java.*
